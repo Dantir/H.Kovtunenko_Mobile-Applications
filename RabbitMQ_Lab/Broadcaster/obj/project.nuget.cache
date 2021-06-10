@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FzAzxcCdnIWTB9A3PLmYYJvqXbOtTLKXa+FRoaW5C2JM4PgLjKyitipJVmD1EclVtXCRmZwMosntxt6Y9yOeNQ==",
+  "success": true,
+  "projectFilePath": "D:\\Mob_Applications\\RabbitMQ_Lab\\Broadcaster\\Broadcaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hleb\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Hleb\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Hleb\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
