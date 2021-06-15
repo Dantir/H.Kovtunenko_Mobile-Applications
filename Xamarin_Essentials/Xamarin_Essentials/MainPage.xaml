@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Essentials.MainPage">
+
+    <StackLayout>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            <Label Margin="0,0,0,10" Text="Geolocation" FontAttributes="Bold" FontSize="Large" TextColor="#00FFBF" HorizontalTextAlignment="Center" ></Label>
+            <Button x:Name="btnLocation" Text="Get Geolocation" Clicked="btnLocation_Clicked"/>
+            <Button x:Name="btnNavigate" Text="Nearest Microsoft Office" Clicked="btnNavigate_Clicked"/>
+            <Button x:Name="btnShare" Text="Share Geolocation" Clicked="btnShare_Clicked"/>
+            <Label HorizontalTextAlignment="Center" x:Name="lblLatitude"></Label>
+            <Label HorizontalTextAlignment="Center" x:Name="lblLongitude"></Label>
+            <Label HorizontalTextAlignment="Center" x:Name="distance"></Label>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

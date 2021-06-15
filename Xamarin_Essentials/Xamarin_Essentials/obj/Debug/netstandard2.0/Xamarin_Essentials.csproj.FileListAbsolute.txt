@@ -1,0 +1,14 @@
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\bin\Debug\netstandard2.0\Xamarin_Essentials.deps.json
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\bin\Debug\netstandard2.0\Xamarin_Essentials.dll
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\bin\Debug\netstandard2.0\ref\Xamarin_Essentials.dll
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\bin\Debug\netstandard2.0\Xamarin_Essentials.pdb
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\Xamarin_Essentials.AssemblyInfoInputs.cache
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\Xamarin_Essentials.AssemblyInfo.cs
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\Xamarin_Essentials.csproj.CoreCompileInputs.cache
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\Xamarin_Essentials.dll
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\ref\Xamarin_Essentials.dll
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\Xamarin_Essentials.pdb
+D:\Mob_Applications\Xamarin_Essentials\Xamarin_Essentials\obj\Debug\netstandard2.0\Xamarin_Essentials.csprojAssemblyReference.cache
